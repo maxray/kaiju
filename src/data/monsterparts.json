@@ -1,0 +1,53 @@
+{
+  "tops": [
+    {
+      "id": "monster-1",
+      "name": "Monster 1",
+      "image": "/img/monster1_head.png"
+    },
+    {
+      "id": "monster-2",
+      "name": "Monster 2",
+      "image": "/img/monster2_head.png"
+    },
+    {
+      "id": "monster-3",
+      "name": "Monster 3",
+      "image": "/img/monster3_head.png"
+    }
+  ],
+  "middles": [
+    {
+      "id": "monster-1-body",
+      "name": "Monster 1 Body",
+      "image": "/img/monster1_body.png"
+    },
+    {
+      "id": "monster-2-body",
+      "name": "Monster 2 Body",
+      "image": "/img/monster2_body.png"
+    },
+    {
+      "id": "monster-3-body",
+      "name": "Monster 3 Body",
+      "image": "/img/monster3_body.png"
+    }
+  ],
+  "bottoms": [
+    {
+      "id": "monster-1",
+      "name": "Monster 1 Legs",
+      "image": "/img/monster1_legs.png"
+    },
+    {
+      "id": "monster-2",
+      "name": "Monster 2 Legs",
+      "image": "/img/monster2_legs.png"
+    },
+     {
+      "id": "monster-3",
+      "name": "Monster 3 Legs",
+      "image": "/img/monster3_legs.png"
+    }
+  ]
+}

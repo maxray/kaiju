@@ -2,7 +2,7 @@
 import MonsterPartPicker from './components/MonsterPartPicker.vue'
 import MonsterCard from './components/MonsterCard.vue'
 import MonsterGallery from './components/MonsterGallery.vue'
-import monsterParts from './data/monsterParts.json'
+import monsterParts from './data/monsterparts.json'
 import { ref, onMounted } from 'vue'
 import { saveMonster } from './utils/saveMonster'
 import { loadMonsters } from './utils/loadMonsters'
